@@ -1,8 +1,8 @@
-# Welcome to My GitHub Profile!
+# Wassup G!
 
 ## About Me
 
-Hi, I'm Yakpak55! I'm currently pursuing my Master's degree and I have a passion for backend development, particularly with Java. In addition to coding, I enjoy playing video games in my free time. 
+Hi, I'm Yakpak55! I'm a student with a passion for backend development, particularly with Java. In addition to coding, I enjoy playing video games in my free time. 
 
 ## What You'll Find Here
 
@@ -14,7 +14,7 @@ On this GitHub profile, you'll find a variety of projects that I've been working
 
 ## Projects
 
-Feel free to browse through my repositories to see my latest work. I'm constantly updating my projects and adding new ones, so stay tuned for more!
+Feel free to browse through my repositories to see my latest work. I'm constantly updating my projects and adding new ones... (When I remember)
 
 ## Get in Touch
 
@@ -22,6 +22,6 @@ I'm always open to collaboration opportunities or just chatting about technology
 
 ---
 
-Thank you for visiting my GitHub profile!
+Thank you! 
 
 Yakpak55
