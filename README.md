@@ -22,6 +22,6 @@ I'm always open to collaboration opportunities or just chatting about technology
 
 ---
 
-Thank you! 
+Thank you! :)
 
 Yakpak55
