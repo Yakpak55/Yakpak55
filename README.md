@@ -1,4 +1,4 @@
-# Wassup G!
+# Hello!
 
 ## About Me
 
@@ -6,7 +6,7 @@ Hi, I'm Yakpak55! I'm a student I like to work with backend development, particu
 
 ## What You'll Find Here
 
-On this GitHub profile, you'll find a variety of my projects and HWs that I've been working on. These projects showcase my skills in:
+On this GitHub profile, you'll find a variety of my projects and HWs that I've worked on. These projects showcase my skills in:
 - Backend Java development
 - Web development
 - Network configuration
