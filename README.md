@@ -12,7 +12,7 @@ On this GitHub profile, you'll find a variety of my projects and HWs that I've b
 - Network configuration
 - Software development lifecycle
 
-## Projects
+## Projects & HWs
 
 Feel free to browse through my repositories to see my latest work. I'm constantly updating my projects and adding new ones... (When I remember)
 
