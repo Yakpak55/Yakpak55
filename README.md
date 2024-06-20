@@ -18,7 +18,7 @@ Feel free to browse through my repositories to see my latest work. I'm constantl
 
 ## Get in Touch
 
-I'm always open to collaboration opportunities or just chatting about technology and gaming. Don't hesitate to reach out!
+Check out my LinkedIn  tagged
 
 ---
 
